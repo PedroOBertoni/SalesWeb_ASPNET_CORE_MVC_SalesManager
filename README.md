@@ -43,4 +43,6 @@ Além de ser um estudo técnico, o sistema também simula um cenário real de us
    ```bash
    git clone https://github.com/seu-usuario/SalesWebMvc.git
 
-2. Link do site: https://salesweb-yi9p.onrender.com
+2. Links do site:
+   https://salesweb-yi9p.onrender.com
+   https://salesweb.up.railway.app
